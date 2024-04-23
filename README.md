@@ -5,7 +5,7 @@
 - I’m currently working on a FreeLance Aplication **Emprende**
 
 - I’m currently learning **AngularJs, .Net**
-- 
+  
 - How to reach me **douglaselioth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
