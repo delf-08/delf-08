@@ -1,13 +1,28 @@
 <body background_color="blue">
-<h1 align="center">Wellcome to Douglas Alfaro's profile</h1>
+<h1 align="center">Welcome to Douglas Alfaro's Profile</h1>
 <h3 align="center">Passionate Developer Committed to Continuous Learning & Dedicated to Growth as a Programmer and as a Person</h3>
 
-- I’m currently working on a FreeLance Aplication **Emprende**
+- I’m currently working on a Freelance Application called **Emprende**.
 
-- I’m currently learning **AngularJs, .Net**
-  
-- How to reach me **douglaselioth@gmail.com**
+- I’m currently learning **AngularJS, .Net**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-</body>
+- You can reach me at **douglaselioth@gmail.com**.
+
+#  Languages and Tools:
+![Angular](https://img.shields.io/badge/Angular-%2320232A.svg?style=for-the-badge&logo=angular&logoColor=61DAFB) ![AngularJS](https://img.shields.io/badge/AngularJS-%2320232A.svg?style=for-the-badge&logo=angularjs&logoColor=61DAFB) ![Azure](https://img.shields.io/badge/Microsoft_Azure-%2320232A.svg?style=for-the-badge&logo=microsoft-azure&logoColor=61DAFB) ![C#](https://img.shields.io/badge/C%23-%2320232A.svg?style=for-the-badge&logo=c-sharp&logoColor=61DAFB) ![CSS3](https://img.shields.io/badge/CSS3-%2320232A.svg?style=for-the-badge&logo=css3&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express.js-%2320232A.svg?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-%2320232A.svg?style=for-the-badge&logo=git&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%2320232A.svg?style=for-the-badge&logo=html5&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%2320232A.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB) ![Linux](https://img.shields.io/badge/Linux-%2320232A.svg?style=for-the-badge&logo=linux&logoColor=61DAFB) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%2320232A.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-%2320232A.svg?style=for-the-badge&logo=mysql&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-%2320232A.svg?style=for-the-badge&logo=node.js&logoColor=61DAFB) ![Postman](https://img.shields.io/badge/Postman-%2320232A.svg?style=for-the-badge&logo=postman&logoColor=61DAFB) ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%2320232A.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB)
+
+
+
+#  GitHub Stats:
+<!-- Replace `Meitchouk` with your GitHub username -->
+<img src="https://github-readme-stats.vercel.app/api?username=delf-08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=delf-08&theme=tokyonight&hide_border=false" alt="GitHub Streak" align="center"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delf-08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" align="center"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=delf-08&icon=0&color=0)](https://visitcount.itsvg.in)
+]
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
