@@ -1,13 +1,11 @@
-<body backraound_color="blue">
+<body background_color="blue">
 <h1 align="center">Wellcome to Delf-08's profile</h1>
 <h3 align="center">Passionate Developer Committed to Continuous Learning & Dedicated to Growth as a Programmer and as a Person</h3>
 
 - I’m currently working on a FreeLance Aplication **Emprende**
 
 - I’m currently learning **AngularJs, .Net**
-
-- I’m looking to collaborate on **FamilyCare**
-
+- 
 - How to reach me **douglaselioth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
