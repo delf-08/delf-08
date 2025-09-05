@@ -2,9 +2,9 @@
 <h1 align="center">Welcome to Douglas Alfaro's Profile</h1>
 <h3 align="center">Passionate Developer Committed to Continuous Learning & Dedicated to Growth as a Programmer and as a Person</h3>
 
-- I’m currently working on a Freelance Application called **Emprende**.
+- I’m currently working as a backend developer.
 
-- I’m currently learning **React, .Net**.
+- I’m currently learning **Next.js, .Net**.
 
 - You can reach me at **douglaselioth@gmail.com**.
 
